@@ -1,0 +1,1 @@
+A new simple and general method, Variational Discriminant Bottleneck (VDB), is proposed to stabilize the training process of the adversarial model by constraining the information flow in the discriminator and constraining the mutual information between the observation results and the internal representations of the discriminator.
